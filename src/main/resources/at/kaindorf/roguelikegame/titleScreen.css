@@ -1,0 +1,4 @@
+.background{
+    -fx-background-image:url(Test.jpg);
+    -fx-background-size: cover, auto;
+}
